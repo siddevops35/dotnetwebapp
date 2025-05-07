@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../Documents/terraform-for-devops"
+		},
+		{
+			"path": "../Documents"
+		},
+		{
+			"path": "../Documents/remote-infra"
+		},
+		{
+			"path": "../Documents/Project"
+		},
+		{
+			"path": "../Documents/DevopsTerra/Basic"
+		},
+		{
+			"path": "../Documents/DevopsTerra/Variables"
+		},
+		{
+			"path": "../Documents/DevopsTerra/locals"
+		},
+		{
+			"path": "../Documents/DevopsTerra/loops"
+		},
+		{
+			"path": "../Documents/DevopsTerra/security-group"
+		}
+	],
+	"settings": {}
+}
