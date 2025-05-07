@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/siddharth/devops_webapp/devops_webapp.csproj": {}
+    "/Users/siddharth/Projects/dotnetwebapp/devops_webapp.csproj": {}
   },
   "projects": {
-    "/Users/siddharth/devops_webapp/devops_webapp.csproj": {
+    "/Users/siddharth/Projects/dotnetwebapp/devops_webapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/siddharth/devops_webapp/devops_webapp.csproj",
+        "projectUniqueName": "/Users/siddharth/Projects/dotnetwebapp/devops_webapp.csproj",
         "projectName": "devops_webapp",
-        "projectPath": "/Users/siddharth/devops_webapp/devops_webapp.csproj",
+        "projectPath": "/Users/siddharth/Projects/dotnetwebapp/devops_webapp.csproj",
         "packagesPath": "/Users/siddharth/.nuget/packages/",
-        "outputPath": "/Users/siddharth/devops_webapp/obj/",
+        "outputPath": "/Users/siddharth/Projects/dotnetwebapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/siddharth/.nuget/NuGet/NuGet.Config"

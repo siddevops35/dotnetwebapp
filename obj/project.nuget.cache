@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sgLTTPZgX54=",
+  "dgSpecHash": "d4cU+EtHyDo=",
   "success": true,
-  "projectFilePath": "/Users/siddharth/devops_webapp/devops_webapp.csproj",
+  "projectFilePath": "/Users/siddharth/Projects/dotnetwebapp/devops_webapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
